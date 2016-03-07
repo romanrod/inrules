@@ -1,5 +1,5 @@
 require "inrules/version"
-
+require 'json'
 module Inrules
   
 
